@@ -1,0 +1,20 @@
+{
+    "pack.villager_hats.name": "Gorras de aldeanos",
+    "Villager Hats": "Gorras de aldeanos",
+    "morecreativetabs.villager_hats": "Gorras de aldeanos",
+
+    "item.villager_hats.armorers_hat": "Gorra de escudero",
+    "item.villager_hats.butchers_hat": "Gorra de carnicero",
+    "item.villager_hats.cartographers_hat": "Gorra de cartógrapho",
+    "item.villager_hats.desert_hat": "Gorra de desierto",
+    "item.villager_hats.farmers_hat": "Gorra de granjero",
+    "item.villager_hats.fishermans_hat": "Gorra de pescador",
+    "item.villager_hats.fletchers_hat": "Gorra de flechero",
+    "item.villager_hats.librarians_hat": "Gorra de librero",
+    "item.villager_hats.savanna_hat": "Gorra de sabana",
+    "item.villager_hats.shepherds_hat": "Gorra de pastor",
+    "item.villager_hats.snow_hat": "Gorra de nieve",
+    "item.villager_hats.swamp_hat": "Gorra de pantano",
+    "item.villager_hats.wandering_traders_hat": "Gorra de comerciante nómada",
+    "item.villager_hats.weaponsmiths_hat": "Gorra de armero"
+}

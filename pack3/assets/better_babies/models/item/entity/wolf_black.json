@@ -1,0 +1,11 @@
+{
+    "parent": "better_babies:item/entity/wolf_black_standing",
+    "overrides": [
+        {"predicate":{"custom_model_data":1},"model":"better_babies:item/entity/wolf_black_hurt"},
+        {"predicate":{"custom_model_data":2},"model":"better_babies:item/entity/wolf_black_hurt_1"},
+        {"predicate":{"custom_model_data":3},"model":"better_babies:item/entity/wolf_black_hurt_2"},
+        {"predicate":{"custom_model_data":4},"model":"better_babies:item/entity/wolf_black_hurt_3"},
+        {"predicate":{"custom_model_data":5},"model":"better_babies:item/entity/wolf_black_hurt_4"},
+        {"predicate":{"custom_model_data":7},"model":"better_babies:item/entity/wolf_black_moving"}
+    ]
+}

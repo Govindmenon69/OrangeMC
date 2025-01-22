@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/wooden_shovel"
+  },
+  "overrides": [
+      {"predicate": {"custom_model_data":7040000},"model": "recipes_plus:item/oak_shovel"},
+      {"predicate": {"custom_model_data":7040001},"model": "recipes_plus:item/spruce_shovel"},
+      {"predicate": {"custom_model_data":7040002},"model": "recipes_plus:item/birch_shovel"},
+      {"predicate": {"custom_model_data":7040003},"model": "recipes_plus:item/jungle_shovel"},
+      {"predicate": {"custom_model_data":7040004},"model": "recipes_plus:item/acacia_shovel"},
+      {"predicate": {"custom_model_data":7040005},"model": "recipes_plus:item/dark_oak_shovel"},
+      {"predicate": {"custom_model_data":7040006},"model": "recipes_plus:item/crimson_shovel"},
+      {"predicate": {"custom_model_data":7040007},"model": "recipes_plus:item/warped_shovel"},
+      {"predicate": {"custom_model_data":7040008},"model": "recipes_plus:item/mangrove_shovel"},
+      {"predicate": {"custom_model_data":7040009},"model": "recipes_plus:item/cherry_shovel"},
+      {"predicate": {"custom_model_data":7040010},"model": "recipes_plus:item/bamboo_shovel"}
+  ]
+}

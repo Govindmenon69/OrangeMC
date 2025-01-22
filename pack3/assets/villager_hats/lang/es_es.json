@@ -1,0 +1,20 @@
+{
+    "pack.villager_hats.name": "Sombreros de aldeanos",
+    "Villager Hats": "Sombreros de aldeanos",
+    "morecreativetabs.villager_hats": "Sombreros de aldeanos",
+
+    "item.villager_hats.armorers_hat": "Sombrero de escudero",
+    "item.villager_hats.butchers_hat": "Sombrero de carnicero",
+    "item.villager_hats.cartographers_hat": "Sombrero de cartógrapho",
+    "item.villager_hats.desert_hat": "Sombrero de desierto",
+    "item.villager_hats.farmers_hat": "Sombrero de granjero",
+    "item.villager_hats.fishermans_hat": "Sombrero de pescador",
+    "item.villager_hats.fletchers_hat": "Sombrero de flechero",
+    "item.villager_hats.librarians_hat": "Sombrero de librero",
+    "item.villager_hats.savanna_hat": "Sombrero de sabana",
+    "item.villager_hats.shepherds_hat": "Sombrero de pastor",
+    "item.villager_hats.snow_hat": "Sombrero de nieve",
+    "item.villager_hats.swamp_hat": "Sombrero de pantano",
+    "item.villager_hats.wandering_traders_hat": "Sombrero de comerciante nómada",
+    "item.villager_hats.weaponsmiths_hat": "Sombrero de armero"
+}

@@ -1,0 +1,19 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/stick"
+    },
+    "overrides": [
+        {"predicate":{"custom_model_data":1},"model":"minecraft:item/iron_ingot"},
+        {"predicate":{"custom_model_data":2},"model":"minecraft:item/coal"},
+        {"predicate":{"custom_model_data":3},"model":"minecraft:item/charcoal"},
+        {"predicate":{"custom_model_data":4},"model":"minecraft:item/blaze_powder"},
+        {"predicate":{"custom_model_data":5},"model":"minecraft:item/fire_charge"},
+        {"predicate":{"custom_model_data":6},"model":"minecraft:item/netherite_scrap"},
+        {"predicate":{"custom_model_data":7},"model":"minecraft:item/gold_ingot"},
+        {"predicate":{"custom_model_data":8},"model":"minecraft:item/copper_ingot"},
+        {"predicate":{"custom_model_data":9},"model":"minecraft:item/diamond"},
+        {"predicate":{"custom_model_data":10},"model":"minecraft:item/lapis_lazuli"},
+        {"predicate":{"custom_model_data":11},"model":"minecraft:item/emerald"}
+    ]
+}

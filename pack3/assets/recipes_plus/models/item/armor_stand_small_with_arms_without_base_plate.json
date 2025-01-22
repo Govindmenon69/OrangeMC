@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "recipes_plus:item/armor_stand_small_with_arms_without_base_plate"
+  }
+}

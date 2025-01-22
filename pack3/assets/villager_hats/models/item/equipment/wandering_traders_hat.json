@@ -1,0 +1,13 @@
+{
+	"parent": "villager_hats:item/equipment/template_player_hat",
+	"textures": {
+		"1": "villager_hats:item/entity/equipment/hats/wandering_traders_hat",
+		"particle": "villager_hats:item/entity/equipment/hats/wandering_traders_hat"
+	},
+	"display": {
+		"head": {
+			"translation": [0, 0, 0],
+			"scale": [1.21, 1.21, 1.21]
+		}
+	}
+}

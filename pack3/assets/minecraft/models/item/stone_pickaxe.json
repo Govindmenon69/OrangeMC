@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stone_pickaxe"
+  },
+  "overrides": [
+      {"predicate":{"custom_model_data":7040000},"model":"recipes_plus:item/stone_pickaxe"},
+      {"predicate":{"custom_model_data":7040001},"model":"recipes_plus:item/blackstone_pickaxe"},
+      {"predicate":{"custom_model_data":7040002},"model":"recipes_plus:item/deepslate_pickaxe"},
+      {"predicate":{"custom_model_data":7040003},"model":"recipes_plus:item/andesite_pickaxe"},
+      {"predicate":{"custom_model_data":7040004},"model":"recipes_plus:item/diorite_pickaxe"},
+      {"predicate":{"custom_model_data":7040005},"model":"recipes_plus:item/granite_pickaxe"},
+      {"predicate":{"custom_model_data":7040006},"model":"recipes_plus:item/flint_pickaxe"}
+  ]
+}

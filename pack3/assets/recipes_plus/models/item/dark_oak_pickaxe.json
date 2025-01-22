@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "recipes_plus:item/dark_oak_pickaxe"
+  }
+}

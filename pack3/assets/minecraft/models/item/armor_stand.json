@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/armor_stand"
+  },
+  "overrides": [
+      {"predicate": {"custom_model_data": 7040000},"model": "recipes_plus:item/armor_stand_without_base_plate"},
+      {"predicate": {"custom_model_data": 7040001},"model": "recipes_plus:item/armor_stand_with_arms"},
+      {"predicate": {"custom_model_data": 7040002},"model": "recipes_plus:item/armor_stand_with_arms_without_base_plate"},
+      {"predicate": {"custom_model_data": 7040003},"model": "recipes_plus:item/armor_stand_small"},
+      {"predicate": {"custom_model_data": 7040004},"model": "recipes_plus:item/armor_stand_small_without_base_plate"},
+      {"predicate": {"custom_model_data": 7040005},"model": "recipes_plus:item/armor_stand_small_with_arms"},
+      {"predicate": {"custom_model_data": 7040006},"model": "recipes_plus:item/armor_stand_small_with_arms_without_base_plate"}
+  ]
+}

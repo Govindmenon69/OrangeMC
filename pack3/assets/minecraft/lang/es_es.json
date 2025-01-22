@@ -1,0 +1,24 @@
+{
+    "advancement.minecraft.installed_datapacks": "Paquetes de datos instalados",
+    "Installed Datapacks": "Paquetes de datos instalados",
+
+    "dataPack.minecraft.build_number": "Compilación v%s",
+    "Build v%s": "Compilación v%s",
+    "dataPack.minecraft.missing_dependency": "ADVERTENCIA: %s v%s no está instalada. \nEs posible que algunas funciones de %s no funcionen sin eso",
+    "WARNING: %s v%s is not installed. \nSome features in %s may not work properly without it": "ADVERTENCIA: %s v%s no está instalada. \nEs posible que algunas funciones de %s no funcionen sin eso",
+    "dataPack.minecraft.reload": "%s ha sido recargado",
+    "%s has been reloaded": "%s ha sido recargado",
+    "dataPack.minecraft.uninstall.feedback": "%s ha sido desinstalado. Ahora puedes eliminar el archivo",
+    "%s has been uninstalled. You may now remove the file": "%s ha sido desinstalado. Ahora puedes eliminar el archivo",
+    
+    "gui.minecraft.recipebook": "Recetas",
+    "Recipes": "Recetas",
+
+    "itemGroup.minecraft.foliage": "Follaje",
+    "Foliage": "Follaje",
+
+    "title.minecraft.datapack": "Paquete de datos",
+    "Datapack": "Paquete de datos",
+    "title.minecraft.legacy": "Legado",
+    "Legacy": "Legado"
+}

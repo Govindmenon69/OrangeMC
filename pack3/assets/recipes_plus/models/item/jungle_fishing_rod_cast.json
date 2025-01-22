@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "recipes_plus:item/jungle_fishing_rod_cast"
+    }
+}

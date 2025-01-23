@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "recipes_plus:item/spruce_axe"
-  }
-}

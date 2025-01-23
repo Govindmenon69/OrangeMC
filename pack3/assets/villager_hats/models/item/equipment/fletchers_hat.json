@@ -1,6 +1,0 @@
-{
-	"parent": "villager_hats:item/equipment/template_player_hat",
-	"textures": {
-		"texture": "villager_hats:item/entity/equipment/hats/fletchers_hat"
-	}
-}

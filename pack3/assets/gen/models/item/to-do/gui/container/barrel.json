@@ -1,6 +1,0 @@
-{
-	"parent":"gen:_null_/gui/_template_/container",
-	"textures":{
-		"texture":"gen:farm/gui/container/barrel"
-	}
-}
